@@ -1,0 +1,12 @@
+@media only screen and (min-width:500px){
+
+	h1 {
+		font-size: 70px;
+		color: red;
+	}
+
+}
+
+img {
+	width: 100%;
+}
